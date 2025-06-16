@@ -155,9 +155,6 @@ New-LablyVM -Template "Windows Active Directory Forest" -Hostname LABDC01 -BaseV
 
 The below screen shot shows how the template walks the user through creating a new VM. It uses the answers to these questions to build a lab custom to my requirements.
 
-The following 60 second video demos what this process looks like.
-
-[![](media/youtubelink.jpg)](https://www.youtube.com/watch?v=JdrN63L6PBc)
 
 Note: Templates require that the guest Operating System be running either Windows 10 or Windows Server 2016 (or greater).
 
